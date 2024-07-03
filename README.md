@@ -22,7 +22,6 @@
 
 - 📫 Reach me via **Chouroukhalaoui@gmail.com**
 
-- 📄 Know more about me via [my resume](https://drive.google.com/file/d/1QfIA5pGHC3Ep6-yiJ3ITsBQ9iM6VnqkS/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
