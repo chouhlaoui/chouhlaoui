@@ -10,7 +10,7 @@
 <h3 align="center">A data enthusiast and a passionate software engineering student from Tunisia</h3>
 
 # 💫 About Me:
-👩‍💻 I’m currently studying Software engineering, working on software development and data analytics projects at the Higher Institute of Informatics ISI Ariana, Tunisia.<br>🤖 I'm a data Enthusiast and currently pursuing the Google Data Analytics Professional Certificate<br>🌱 I am pursuing a summer internship in data analytics within CognoRise InfoTech.<br>👨‍💻 All of my projects are available on my Github<br>📫 Reach me via Chouroukhalaoui@gmail.com<br><br><br><br><br><br>
+👩‍💻 I’m currently studying Software engineering, working on software development and data analytics projects at the Higher Institute of Informatics ISI Ariana, Tunisia.<br>🤖 I'm a data Enthusiast and currently pursuing the Google Data Analytics Professional Certificate<br>🌱 I am pursuing a summer internship in data analytics within CognoRise InfoTech.<br>👨‍💻 All of my projects are available on my Github<br>📫 Reach me via Chouroukhalaoui@gmail.com<br><br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chourouk-hlaoui) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pink__Penguin) 
