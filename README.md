@@ -12,7 +12,6 @@
 # 💫 About Me:
 👩‍💻 I’m currently studying Software engineering, working on software development and data analytics projects at the Higher Institute of Informatics ISI Ariana, Tunisia.<br>🤖 I'm a data Enthusiast and currently pursuing the Google Data Analytics Professional Certificate<br>🌱 I am pursuing a summer internship in data analytics within CognoRise InfoTech.<br>👨‍💻 All of my projects are available on my Github<br>📫 Reach me via Chouroukhalaoui@gmail.com<br><br><br><br><br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chourouk-hlaoui) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pink__Penguin) 
 
@@ -26,8 +25,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chouhlaoui&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chouhlaoui&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chouhlaoui&icon=0&color=1)](https://visitcount.itsvg.in)
