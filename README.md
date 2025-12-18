@@ -7,10 +7,14 @@
   </a>
 </p>
 <h1 align="center">Hi there👋, I'm Chourouk Lahlaoui</h1>
-<h3 align="center">A data enthusiast and a passionate software engineering student from Tunisia</h3>
+<h3 align="center">💻 Data Engineer & Data Enthusiast</h3>
 
 # 💫 About Me:
-👩‍💻 I’m currently studying Software engineering, working on software development and data analytics projects at the Higher Institute of Informatics ISI Ariana, Tunisia.<br>🤖 I'm a data Enthusiast and currently pursuing the Google Data Analytics Professional Certificate<br>🌱 I am pursuing a summer internship in data analytics within CognoRise InfoTech.<br>👨‍💻 All of my projects are available on my Github<br>📫 Reach me via Chouroukhalaoui@gmail.com<br><br>
+👩‍💻 Currently in my final year of Engineering at ESIEE-IT, France, doing a work-study program in software engineering.<br>
+🤖 I work as a Data Engineer and am passionate about ETL pipelines, data warehouses, and building data-driven solutions.<br>
+🌱 I love transforming raw data into actionable insights through analytics projects.<br>
+👨‍💻 All my data projects are available on GitHub.<br>
+📫 Reach me at Chouroukhalaoui@gmail.com<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chourouk-hlaoui) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pink__Penguin) 
